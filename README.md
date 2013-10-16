@@ -1,6 +1,6 @@
 # cloudWords
 
-- **DEMO:** [http://gemerz.github.io/cloudWords](http://gemerz.github.io/cloudWords)
+- **DEMO:** [http://gemerz.github.io/cloudwords](http://gemerz.github.io/cloudwords)
 
 ******************
 
@@ -14,9 +14,9 @@
 ```js
 var options = {
   id:'cloudWords',
-	word:["Dear God","give me","a break"],
-	auto:true,
-	height:300
+  word:["Dear God","give me","a break"],
+  auto:true,
+  height:300
 }
 
 var cloudWords = new cloudWords(options);
