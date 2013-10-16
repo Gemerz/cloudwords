@@ -1,0 +1,13 @@
+{
+  "name": "cloudWords",
+  "description": "A canvas word particles just like cloudWords",
+  "version": "1.0.1",
+  "author": "Gemer zhang <Gemercheung@gmail.com>",
+  "devDependencies": {
+        "grunt": "*",
+        "grunt-contrib-watch": "*",
+        "grunt-contrib-uglify": "*",
+        "grunt-contrib-jshint": "*",
+        "grunt-contrib-qunit" :"*"
+    }
+}
