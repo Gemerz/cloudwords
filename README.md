@@ -4,7 +4,7 @@
 
 ******************
 
-![- screenshot ](http://gemer.qiniudn.com/cloudWords.png?token=stn-uCqztmI61pdBKxIJEVjjKOFzeofMLmuajvGi:H158ChpHJJNe8N_cDGkywtg7EDA=:eyJTIjoiZ2VtZXIucWluaXVkbi5jb20vY2xvdWRXb3Jkcy5wbmciLCJFIjoxMzgxNzA3MTA1fQ==)
+![- screenshot ](http://gemer.qiniudn.com/cloudWords.png-700px)
 
 ******************
 
