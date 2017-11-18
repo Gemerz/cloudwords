@@ -1,5 +1,7 @@
 # cloudWords
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Gemerz/cloudwords.svg)](https://greenkeeper.io/)
+
 - **DEMO:** [http://gemerz.github.io/cloudwords](http://gemerz.github.io/cloudwords)
 
 ******************
